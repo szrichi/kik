@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:1  , T SPORTS
+http://otv.ftpbd.net/streams/108/index.m3u8
+#EXTM3U
+#EXTINF:1  , SONY SIX
+http://otv.ftpbd.net/streams/106/index.m3u8
+#EXTM3U
+#EXTINF:1  , STAR SPORTS 1
+http://otv.ftpbd.net/streams/104/index.m3u8
+#EXTM3U
+#EXTINF:1  , SONY LIV
+https://sonydai.akamaized.net/hls/live/2022320/DAI16ME/master.m3u8?hdnea=exp=1610568599~acl=/*~id=190327121978844931~hmac=51d57dcc6542e473c07575fd1ae0d873fa7e58601c9ce7713fc06abd3edfb0f6&originpath=/linear/hls/pb/event/xnt11g3ITBetU97WxbV3uw/stream/2bcb1e1d-7853-41bc-967c-110167e0db1a:SIN/master.m3u8
+
+
