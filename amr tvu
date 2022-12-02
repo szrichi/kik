@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:1  , FIFA SPORTS
-https://riddle-fifa-2022@mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
-#EXTINF:1  , T SPORTSs
 https://sports.bioscopelive.com/hls/anonymous/h06kct-o1Xwwq7n5ypxFRQ/1670020897/tsports_mid/index.m3u8
+#EXTINF:1  , T SPORTSs
+https://riddle-fifa-2022@mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
