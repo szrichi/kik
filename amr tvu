@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:1  , ILT20
-https://mprod-cdn.toffeelive.com/ilt20/channel-1/master_1000.m3u8
+#EXTINF:1  , SONY LIV
+https://sonydaimenew.akamaized.net/hls/live/2094589-b/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1676308707~acl=/*~id=23938989257687108112600636575049~hmac=60826d77a2ee886e76226ed914be9c8444376ad250081b0c9e96174c85484755
