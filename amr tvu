@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:1  , SONY LIV
-https://yassu.pcstream.cyou:443/procricket/amlst:stream_3_b3550000/playlist.m3u8?vidictid=194147050943&id=3&pk=a087357ddf13907d4646a2d68441c6ca494db30cec840e302407f487ef926168&userId=0caf81f8-4e37-42be-b5cc-c946ac7f6a2e
+#EXTINF:1  , live
+https://bcovlive-a.akamaihd.net/bb4c72ab9a00478c8d6d04249af067fb/eu-west-1/4854911276001/profile_0/chunklist.m3u8
