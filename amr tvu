@@ -3,5 +3,5 @@
 https://bcovlive-a.akamaihd.net/bb4c72ab9a00478c8d6d04249af067fb/eu-west-1/4854911276001/profile_0/chunklist.m3u8
 #EXTINF:1  ,T sports
 https://live.tsports.com/live/tsports_live_720/index.m3u8
-#EXTIF :1  ,BT SPORTS
+#EXTINF:1  ,BT SPORTS
 https://yassu.pcstream.cyou/procricket/amlst:stream_1_b3550000/playlist.m3u8?vidictid=194181192976&id=1&pk=a087357ddf13907d4646a2d68441c6ca494db30cec840e302407f487ef926168&userId=0caf81f8-4e37-42be-b5cc-c946ac7f6a2e
