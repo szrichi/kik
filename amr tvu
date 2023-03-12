@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:1  , live
-https://bcovlive-a.akamaihd.net/c1e5a94526334a2dac587d12fba7c1d1/eu-west-1/4854911276001/profile_0/chunklist.m3u8
+https://bcovlive-a.akamaihd.net/3e4d8c3f5555471eba76e69fce58e0a8/eu-west-1/4854911276001/profile_0/chunklist.m3u8
 #EXTINF:1  ,T sports
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:1  ,BT SPORTS
