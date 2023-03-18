@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:1  , live
-https://mprod-cdn.toffeelive.com/banvsire/match-1/master_1000.m3u8
+#EXTINF:1  ,T Sports live
+https://live.tsports.com/live/tsports_live_2_720/index.m3u8
 #EXTINF:1  ,T sports
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:1  ,BT SPORTS
