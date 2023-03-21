@@ -14,4 +14,4 @@ http://10.192.0.3:1001/tv_channel_4/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,FAN CODE
 https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/kyKugrmMRwa0Z3HbQtY7BKRGZq3UdcW3X_Z4E5NMBxYbzfjGmnOE8ldeF_jDN7TjweaGeh7Ghd_C1mF-MlzI1Q/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:1  ,HOTSTAR ENGLISH 
-https://sonydaimenew.akamaized.net/hls/live/2022317-b/MA03-V3/master_mdh.m3u8?hdnea=st=1679247564~exp=1679247864~acl=*~id=86c4f364-8fb3-4c73-8a1b-b9c4a3fd58ce~hmac=7f5bfbc8fc5a1ecc5d9b16a1d9666520f9ea11c8c7b71cfa7799b309c0b46153&originpath=/linear/hls/pb/event/oZNVxALASVyYS4HMtTpRCw/stream/f18dab12-10e0-416d-a6be-aecf12a43a5f:TPE2/master.m3u8
+https://sports-south-test.jiocinema.com/hls/live/2099026/uhd_4k_akamai_avc_hin_wpl19/master.m3u8
