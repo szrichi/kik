@@ -12,6 +12,6 @@ http://10.192.0.3:1001/tv_channel_2/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,T SPORTS B
 http://10.192.0.3:1001/tv_channel_4/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,FAN CODE
-https://prod-fastly-us-east-1.video.pscp.tv/Transcoding/v1/hls/kyKugrmMRwa0Z3HbQtY7BKRGZq3UdcW3X_Z4E5NMBxYbzfjGmnOE8ldeF_jDN7TjweaGeh7Ghd_C1mF-MlzI1Q/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/tw_master_dynamic_highlatency.m3u8?type=live
+https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/Py1kSolmJBf8hmEv62zkQL__-ICTVncMqW_-Aw-tQiCv259_lCzxs383ZDnGHm3a1axYne05JjWHrxTrrr7Nhg/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:1  ,HOTSTAR ENGLISH 
 https://sports-south-test.jiocinema.com/hls/live/2099026/uhd_4k_akamai_avc_hin_wpl19/master.m3u8
