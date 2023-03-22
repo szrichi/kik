@@ -14,4 +14,4 @@ http://10.192.0.3:1001/tv_channel_4/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,FAN CODE
 https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/Py1kSolmJBf8hmEv62zkQL__-ICTVncMqW_-Aw-tQiCv259_lCzxs383ZDnGHm3a1axYne05JjWHrxTrrr7Nhg/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:1  ,HOTSTAR ENGLISH 
-https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/uDqkwHevDPTGhbjuhNh-j0CByGsC63cNYXFzveUUAK8I5Gl5oqiuDWLHlOa5K8-gbHtfE8rW38EqRn80fgPOTA/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/9_h8XmUJ9ECrxObGXMbMJLRk_UgQFw4JOchXGMrCw175XUOI5HyR_Ip7YMHi6uzkOWDjUhKPioEz2uGRJqMGiw/non_transcode/ap-southeast-2/periscope-replay-direct-prod-ap-southeast-2-public/tw_master_dynamic_highlatency.m3u8?type=live
