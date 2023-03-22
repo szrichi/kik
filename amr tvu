@@ -14,4 +14,4 @@ http://10.192.0.3:1001/tv_channel_4/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,FAN CODE
 https://vkvsd4.mycdn.me/hls/3972715186702.m3u8/sig/70rfWBJiiBM/expires/1679562752518/srcIp/146.196.47.71/urls/45.136.22.56/clientType/13/srcAg/CHROME_ANDROID/mid/4912348539662/video.m3u8?p
 #EXTINF:1  ,HOTSTAR ENGLISH 
-https://bit.ly/3Z83nGA
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/Bi9xxJqgKVGK6ndSuEUkYaLnVxFvxSCd0eDOGRdxSq-mepjrp-kqpG7eTNmMHT7-KZ8LiFrgSHYIR0E_5zLbfg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tm_master_dynamic_highlatency.m3u8?type=live
