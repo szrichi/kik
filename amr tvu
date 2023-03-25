@@ -2,7 +2,7 @@
 #EXTINF:1  ,SKY CRICKET HD
 https://eas4.gcdn.co/UKS41/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,T sports
-https://live.tsports.com/live/tsports_live_720/index.m3u8
+https://lin-gd-001-cf.slivcdn.com/out/v1/79396cc3e885493e950b24dcddceaeda/master_8.m3u8?hdntl=exp=1679804645~acl=*~hmac=220383c28537be4a5f82eea069ee021e045a4b20ed6141f457abfc774562ae3a&originpath=/linear/hls/pb/event/Sle_TR8rQIuZHWzshEXYjQ/stream/0adbd530-b6b3-4be7-9e40-43baa35de4a7:TPE/variant/97ac1a146c63b8d933cbc3ae1f4d8484/bandwidth/2753053.m3u8&hdnea=st=1679761444~exp=1679761744~acl=*~id=82a7a41a-dba8-4d69-acf3-5b331a0bb4f1~hmac=58c6c631a788943da40a7a1260004d7b2a506fbffe681035cb9076c927579925
 #EXTINF:1  ,BDIX
 http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w1539452693.m3u8
 #EXTINF:1  ,SKY CRICKET 
