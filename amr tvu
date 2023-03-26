@@ -13,5 +13,5 @@ http://10.192.0.3:1001/tv_channel_2/tracks-v1a1/mono.m3u8
 http://10.192.0.3:1001/tv_channel_4/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,FAN CODE
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/XywssuVV9JT104nRrZFJepYaYsqUsDMWm6UKia7nsDuL04hOLHin395I6YhMRXbhNS67FtSbcFFBWfVgmetX1w/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tm_master_dynamic_highlatency.m3u8?type=live
-#EXTINF:1  ,HOTSTAR ENGLISH 
-https://eas4.gcdn.co/UKS41/index.m3u8
+#EXTINF:1  ,live link 
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/hzrMTVMfEtkchKV46cB7L8Jy2ul5dykjreeKs6ETUmaGFzz8lUveIRUjNkQVEJrO24m6_LRTBmL3kG8PZED1Tw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tm_master_dynamic_highlatency.m3u8?type=live
