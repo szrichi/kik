@@ -12,6 +12,6 @@ http://10.192.0.3:1001/tv_channel_2/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,T SPORTS B
 http://163.47.158.62:9990/tsport/index.m3u8
 #EXTINF:1  ,FAN CODE
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/XywssuVV9JT104nRrZFJepYaYsqUsDMWm6UKia7nsDuL04hOLHin395I6YhMRXbhNS67FtSbcFFBWfVgmetX1w/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tm_master_dynamic_highlatency.m3u8?type=live
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/lpdz9LuPH0a5P0KT6KOUgOi81BJh0uFByA65tqXVlpdV0fZXelR_9r_g0ePKcpR4jBgPphueaGbRVTON12AprA/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:1  ,live link 
 https://es7.quest123.top:8088/live/webcricn02/playlist.m3u8?vidictid=194479442104&id=115656&pk=ef561de675cc12f91bbf3081b7094d6c3b7226e9bc01e169183920e3f0d9433675c149bbc1c9cca15f1ee9b80a888dccf7671a241c1353dae9d8825dba80aa3d
