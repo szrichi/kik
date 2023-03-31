@@ -6,7 +6,7 @@ http://eas4.gcdn.co/UKS84/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,BDIX
 http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w1539452693.m3u8
 #EXTINF:1  ,SKY CRICKET 
-https://ht3.quest123.top:8088/mobile/stream4_320p/playlist.m3u8?vidictid=194188432907&id=15&pk=ef561de675cc12f91bbf3081b7094d6c3b7226e9bc01e169183920e3f0d94336b2c11fef6d85b9e4da1cbd5a51e8fb77c46d3358f505e9446a0e98f6d609bdf8
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/qG2C6tb7gJmtBue5v8Gbr534ocw8UNVea6zZDT_VvuHIMCdRV7P7wZrgkPNY2AXOvj0HuNATf0Gwi9BzdI_xTA/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live336b2c11fef6d85b9e4da1cbd5a51e8fb77c46d3358f505e9446a0e98f6d609bdf8
 #EXTINF:1  ,GAZI TV
 http://10.192.0.3:1001/tv_channel_2/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,T SPORTS B
