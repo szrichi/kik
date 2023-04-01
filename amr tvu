@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:1  ,SKY CRICKET HD
-https://eas4.gcdn.co/UKS41/index.m3u8
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/82Nard9YsR0Uo1e3KgsKaO7penUtouNrkY1g2thRWKdLU4W6R0wiLZ4Pti7wYEdwa4FXPMatQ2NfMyZMbqw4HA/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:1  ,WILLOW HD
 http://eas4.gcdn.co/UKS84/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,BDIX
