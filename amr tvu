@@ -10,7 +10,7 @@ https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/qG2C6tb7gJmtBue5v
 #EXTINF:1  ,GAZI TV
 http://10.192.0.3:1001/tv_channel_2/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,T SPORTS B
-http://163.47.158.62:9990/tsport/index.m3u8
+https://live.tsports.com/live/live_01_720/index.m3u8
 #EXTINF:1  ,FAN CODE
 https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/CXr7lfFN1_OIZQumFkD4AYIfY6NqPHgjNZr6nrJ71RVJ71JGfG8SiYf5Q9XwJc1nZ3vKJ4tgu_7c5P06Rl4V0Q/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:1  ,live link 
