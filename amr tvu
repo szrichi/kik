@@ -14,4 +14,4 @@ https://live.tsports.com/live/live_01_720/index.m3u8
 #EXTINF:1  ,FAN CODE
 https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/CXr7lfFN1_OIZQumFkD4AYIfY6NqPHgjNZr6nrJ71RVJ71JGfG8SiYf5Q9XwJc1nZ3vKJ4tgu_7c5P06Rl4V0Q/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:1  ,live link 
-https://es7.quest123.top:8088/live/webcricn02/playlist.m3u8?vidictid=194479442104&id=115656&pk=ef561de675cc12f91bbf3081b7094d6c3b7226e9bc01e169183920e3f0d9433675c149bbc1c9cca15f1ee9b80a888dccf7671a241c1353dae9d8825dba80aa3d
+https://prod-sports-hin-gm.jiocinema.com/hls/live/2099108/uhd_akamai_ctv_avc_hin_ipl05/master.m3u8
