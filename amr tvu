@@ -12,6 +12,6 @@ http://10.192.0.3:1001/tv_channel_2/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,T SPORTS B
 https://live.tsports.com/live/live_01_720/index.m3u8
 #EXTINF:1  ,FAN CODE
-https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/CXr7lfFN1_OIZQumFkD4AYIfY6NqPHgjNZr6nrJ71RVJ71JGfG8SiYf5Q9XwJc1nZ3vKJ4tgu_7c5P06Rl4V0Q/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live
+https://prod-sports-hin-gm.jiocinema.com/hls/live/2099000/uhd_akamai_ctv_avc_eng_ipl06/master.m3u8
 #EXTINF:1  ,live link 
-https://prod-sports-hin-gm.jiocinema.com/hls/live/2099108/uhd_akamai_ctv_avc_hin_ipl05/master.m3u8
+https://prod-sports-hin-gm.jiocinema.com/hls/live/2099003/uhd_akamai_ctv_avc_hin_ipl06/master.m3u8
