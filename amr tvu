@@ -11,7 +11,7 @@ https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/qG2C6tb7gJmtBue5v
 http://10.192.0.3:1001/tv_channel_2/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,T SPORTS B
 https://live.tsports.com/live/live_01_720/index.m3u8
-#EXTINF:1  ,FAN CODE
-http://prod-sports-hin-gm.jiocinema.com/hls/live/2099003/uhd_akamai_ctv_avc_hin_ipl09/master_720p.m3u8
+#EXTINF:1  ,IPL LINK
+https://join-us-on-telegram-streamkingliveo.pages.dev/ENGLISH-WW.m3u8
 #EXTINF:1  ,live link 
-https://join-us-on-telegram-streamkingliveo.pages.dev/fancode.m3u8
+https://join-us-on-telegram-streamkingliveo.pages.dev/BANGLA-WW.m3u8
