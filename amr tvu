@@ -12,6 +12,6 @@ http://10.192.0.3:1001/tv_channel_2/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,T SPORTS B
 https://live.tsports.com/live/live_01_720/index.m3u8
 #EXTINF:1  ,IPL LINK
-https://join-us-on-telegram-streamkingliveo.pages.dev/ENGLISH-WW.m3u8
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/JPEELEujzGYJFkWIj56PpFKIrdoMYGVGda4fAG-yHbUquEgMJMO8z8wqxRD05h_Uq_oX5SDQCue3CTCqcDz6pA/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:1  ,live link 
-https://join-us-on-telegram-streamkingliveo.pages.dev/BANGLA-WW.m3u8
+https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/wn7doVvLd89NdlsRz8lKcrGfufB0NtG3J1UPXg75_SagCOzyvOOmOyEhl5F5869oOXFW8wpwVaM2w6_SxIPL7Q/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live
