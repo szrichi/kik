@@ -14,4 +14,4 @@ https://live.tsports.com/live/live_01_720/index.m3u8
 #EXTINF:1  ,IPL LINK
 https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/JPEELEujzGYJFkWIj56PpFKIrdoMYGVGda4fAG-yHbUquEgMJMO8z8wqxRD05h_Uq_oX5SDQCue3CTCqcDz6pA/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:1  ,live link 
-https://prod-sports-south-gm.jiocinema.com/bpk-tv/M1_IPL23_Eng_HD_IDC_BTS/Fallback/M1_IPL23_Eng_HD_IDC_BTS-audio_140835_eng=140800-video=1480000.m3u8
+https://prod-sports-north-gm.jiocinema.com/hls/live/2099124/hd_akamai_androidmob_avc_bhoj_ipl31/master_720p.m3u8
