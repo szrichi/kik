@@ -5,12 +5,12 @@ https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/82Nard9YsR0Uo1e3K
 http://eas4.gcdn.co/UKS84/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,BDIX
 http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w1539452693.m3u8
-#EXTINF:1  ,SKY CRICKET 
-https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/qG2C6tb7gJmtBue5v8Gbr534ocw8UNVea6zZDT_VvuHIMCdRV7P7wZrgkPNY2AXOvj0HuNATf0Gwi9BzdI_xTA/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live336b2c11fef6d85b9e4da1cbd5a51e8fb77c46d3358f505e9446a0e98f6d609bdf8
+#EXTINF:1  ,Jio Sd
+https://prod-sports-south-gm.jiocinema.com/bpk-tv/M2_IPL23_Eng_HD_IDC_BTS/Fallback/M2_IPL23_Eng_HD_IDC_BTS-audio_140835_eng=140800-video=713600.m3u8
 #EXTINF:1  ,GAZI TV
-http://10.192.0.3:1001/tv_channel_2/tracks-v1a1/mono.m3u8
-#EXTINF:1  ,T SPORTS B
-https://live.tsports.com/live/live_01_720/index.m3u8
+http://cloud.embedsite.xyz:1935/live/live2_720p/chunklist_w1419053262_tkc2VydmVyYmQyNDd0b2tlbmVuZHRpbWU9MTY4MjI3NDk0MCZzZXJ2ZXJiZDI0N3Rva2Vuc3RhcnR0aW1lPTE2ODIyNjc5NDAmc2VydmVyYmQyNDd0b2tlbmhhc2g9NThQLWg0OEdadm43ckdmSEJOTXBMY2M3aWFTSDdxMmZtR0RzWmxVOWhMdz0=.m3u8?serverbd247tokenendtime=1682274940&serverbd247tokenstarttime=1682267940&serverbd247tokenhash=58P-h48GZvn7rGfHBNMpLcc7iaSH7q2fmGDsZlU9hLw=
+#EXTINF:1  ,JIO 4K
+https://prod-sports-south-gm.jiocinema.com/bpk-tv/M2_IPL23_Eng_HD_IDC_BTS/Fallback/M2_IPL23_Eng_HD_IDC_BTS-audio_140835_eng=140800-video=3114800.m3u8
 #EXTINF:1  ,IPL LINK
 http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,live link 
