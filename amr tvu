@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:1  ,SKY CRICKET HD
 https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/82Nard9YsR0Uo1e3KgsKaO7penUtouNrkY1g2thRWKdLU4W6R0wiLZ4Pti7wYEdwa4FXPMatQ2NfMyZMbqw4HA/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live
-#EXTINF:1  ,WILLOW HD
-http://eas4.gcdn.co/UKS84/tracks-v1a1/mono.m3u8
+#EXTINF:1  ,SONY SIX
+http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,BDIX
-http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w1539452693.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,Jio Sd
 https://prod-sports-south-gm.jiocinema.com/bpk-tv/M2_IPL23_Eng_HD_IDC_BTS/Fallback/M2_IPL23_Eng_HD_IDC_BTS-audio_140835_eng=140800-video=713600.m3u8
 #EXTINF:1  ,GAZI TV
