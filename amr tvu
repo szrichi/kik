@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:1  ,CRICKET 4k
-https://iptv.embedsite.xyz/push/tracks-v1/index.fmp4.m3u8?token=8b35aca8351f0a84f417896af7cada3144fe102a-1de23885a2f95bb739473f2debfe3c19-1686820948-1686734548
+https://dai.google.com/linear/hls/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8
 #EXTINF:1  ,SONY SIX
 http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,BDIX
