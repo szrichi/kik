@@ -9,8 +9,8 @@ http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
 https://ht01.quest123.top:8088/mobile/stream3_320p/playlist.m3u8?vidictid=195373130390&id=11&pk=b20058513900ba1f75666c29fed3a7aef2acbff6e6189788d456e1e4457a0f2d57aa1117f16417b151f1d4e4ea6489bafc44160b738e91621c25ed110692f8a4
 #EXTINF:1  ,T Sports
 http://12.1.1.1:8082/T-Sports/tracks-v1a1/mono.m3u8?token=8620693097e4d429eebe3a1ed6c117239e75fda4-769d7fbac0aafb3210f6e5588bb5ef93-1688061033-1688050233
-#EXTINF:1  ,GAZI TV
-http://12.1.1.1:8082/Gazi-Tv/tracks-v1a1/mono.m3u8?token=008c8f735e3403d6d77c07bc924cd7552bfc1e17-1a4149a8b9230dab8da73c75cbb9f0b4-1688061163-1688050363
+#EXTINF:1  ,CRICKET 
+https://hls.rtasport.live/hls/stream.m3u8
 #EXTINF:1  ,IPL LINK
 http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,live link 
