@@ -5,8 +5,8 @@ http://str24.l9574.com/601.stream/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,BDIX
 http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
-#EXTINF:1  ,Willow
-https://ht01.quest123.top:8088/mobile/stream3_320p/playlist.m3u8?vidictid=195373130390&id=11&pk=b20058513900ba1f75666c29fed3a7aef2acbff6e6189788d456e1e4457a0f2d57aa1117f16417b151f1d4e4ea6489bafc44160b738e91621c25ed110692f8a4
+#EXTINF:1  ,Willow STAR
+http://10.192.0.3:1001/tv_channel/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,T Sports
 http://12.1.1.1:8082/T-Sports/tracks-v1a1/mono.m3u8?token=8620693097e4d429eebe3a1ed6c117239e75fda4-769d7fbac0aafb3210f6e5588bb5ef93-1688061033-1688050233
 #EXTINF:1  ,CRICKET 
