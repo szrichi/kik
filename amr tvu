@@ -7,8 +7,8 @@ http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,Willow STAR
 http://10.192.0.3:1001/tv_channel/tracks-v1a1/mono.m3u8
-#EXTINF:1  ,T Sports
-http://12.1.1.1:8082/T-Sports/tracks-v1a1/mono.m3u8?token=8620693097e4d429eebe3a1ed6c117239e75fda4-769d7fbac0aafb3210f6e5588bb5ef93-1688061033-1688050233
+#EXTINF:1  ,LIVE 2
+https://vkvsd14.mycdn.me/hls/4918563637865.m3u8/sig/MenrFFpHSEo/expires/1688813159465/srcIp/49.37.116.86/urls/45.136.22.19/clientType/13/srcAg/CHROME/mid/5938069121897/video.m3u8?p
 #EXTINF:1  ,CRICKET 
 https://hls.rtasport.live/hls/stream.m3u8
 #EXTINF:1  ,IPL LINK
