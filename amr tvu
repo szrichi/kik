@@ -5,8 +5,8 @@ http://str24.l9574.com/601.stream/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,BDIX
 http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
-#EXTINF:1  ,Willow STAR
-https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.3EwPUKSpkwRN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvM0V3UFVLU3Brd1JOIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20saHR0cHM6Ly9wbGF5ZXIua2ljay5jb20iLCJhd3M6c3RyaWN0LW9yaWdpbi1lbmZvcmNlbWVudCI6ZmFsc2UsImV4cCI6MTY4OTM0MzAzMX0.PlYkPekFz3XpxKOusrEkNQQqAz-Hq1q3sfTmK5MYm2zq6cST7LbXXllRGjLSzFD3oL3g1kj0sPc8ZUdMeriVtbFpOLV11C2a_pmudTFX3QF8ijTTvkws_xmS5wTi5XST
+#EXTINF:1  ,STAR CRICKET
+http://12.1.1.1:8082/Star-Sports-1/tracks-v1a1/mono.m3u8?token=0c403a432ef0fc11d626e306aa1e2b7e7b22705f-10309c00e1ccd5bb98a74ba21205b58b-1689386176-1689375376
 #EXTINF:1  ,MLC
 https://mprod-cdn.toffeelive.com/mlc2023/match-1/master_1000.m3u8
 #EXTINF:1  ,CRICKET 
