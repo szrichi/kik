@@ -6,7 +6,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,BDIX
 http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,Willow STAR
-http://10.192.0.3:1001/tv_channel/tracks-v1a1/mono.m3u8
+https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.3EwPUKSpkwRN.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzM4NCJ9.eyJhd3M6Y2hhbm5lbC1hcm4iOiJhcm46YXdzOml2czp1cy13ZXN0LTI6MTk2MjMzNzc1NTE4OmNoYW5uZWwvM0V3UFVLU3Brd1JOIiwiYXdzOmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbiI6Imh0dHBzOi8va2ljay5jb20saHR0cHM6Ly9wbGF5ZXIua2ljay5jb20iLCJhd3M6c3RyaWN0LW9yaWdpbi1lbmZvcmNlbWVudCI6ZmFsc2UsImV4cCI6MTY4OTM0MzAzMX0.PlYkPekFz3XpxKOusrEkNQQqAz-Hq1q3sfTmK5MYm2zq6cST7LbXXllRGjLSzFD3oL3g1kj0sPc8ZUdMeriVtbFpOLV11C2a_pmudTFX3QF8ijTTvkws_xmS5wTi5XST
 #EXTINF:1  ,LIVE 2
 https://www.youtube.com/api/manifest/hls_variant/expire/1689360040/ei/SEKxZMLxDfjM3LUPy9a7wAQ/ip/103.145.134.215/id/O5Fi3kRLC6Q.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/siu/1/spc/Ul2Sq02A3O9hg9N-FxbO1USgeH0VLPCrGiCGUvDIFsT1R_wTWzaHnls/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685%2C24363393/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJ4OAL8hW7lCvBUwNDMoLcM6iwWxjFPlURPTz1LqvWm3AiAL9hK_ZknkNLqkVqzctyN3o757mnOZCEqamgcx4sjthw%3D%3D/file/index.m3u8
 #EXTINF:1  ,CRICKET 
