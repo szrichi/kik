@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:1  ,CRICKET 4k
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_t2001/master.m3u8
+https://mprod-cdn.toffeelive.com/indvswi/match-1/master_1000.m3u8
 #EXTINF:1  ,SONY SIX
 http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,BDIX
