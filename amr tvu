@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:1  ,CRICKET 4k
-https://live.tsports.com/?bitrate=512000&channel=tsports_live_3_720&res=720
+http://live.himel-himu.tk/Astro-Cricket(2)-HD/hls/Himel-Op.m3u8?key=sports-op
 #EXTINF:1  ,SONY SIX
 http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,BDIX
