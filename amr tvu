@@ -9,8 +9,8 @@ http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
 https://hls.streambtw.com/live/stream_e2.m3u8
 #EXTINF:1  ,GAZI TV
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
-#EXTINF:1  ,SKY SPORTS
-http://185.59.222.33/Ycp6PzdWBnFvl5dOM3wVqM303e5df5603f378db9e17c60579e63c06179f9e2e1b58124/tracks-v1a1/mono.m3u8?token=3e59d4d86f4bfe50e276606b7ebdfe72
+#EXTINF:1  ,JIO SPORTS
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099088/hd_akamai_androidmob_avc_bhoj_indvsaus_t2001/master.m3u8
 #EXTINF:1  ,IPL LINK
 http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,live link 
