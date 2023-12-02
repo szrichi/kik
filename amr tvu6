@@ -5,8 +5,8 @@ https://hls.streambtw.com/live/stream_e1.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,BDIX
 http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
-#EXTINF:1  ,HOTSTAR
-https://hls.streambtw.com/live/stream_e2.m3u8
+#EXTINF:1  ,JIO LINK
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099915/hd_akamai_iosmob_avc_eng_adt10_021223/master_1080p.m3u8
 #EXTINF:1  ,GAZI TV
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,Trail 1
