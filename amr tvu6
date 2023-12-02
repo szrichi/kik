@@ -9,7 +9,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
 https://hls.streambtw.com/live/stream_e2.m3u8
 #EXTINF:1  ,GAZI TV
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
-#EXTINF:1  ,Trail
+#EXTINF:1  ,Trail 1
 https://prod-ent-live-gm.jiocinema.com/hls/live/2099088/hd_akamai_androidmob_avc_bhoj_indvsaus_t2001/master.m3u8
 #EXTINF:1  ,IPL LINK
 http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
