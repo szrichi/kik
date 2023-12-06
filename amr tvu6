@@ -3,15 +3,17 @@
 http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,BDIX
 http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
-#EXTINF:1  ,JIO LINK
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099915/hd_akamai_iosmob_avc_eng_adt10_021223/master_1080p.m3u8
+#EXTINF:1  ,WILLOW 
+https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
 #EXTINF:1  ,GAZI TV
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
-#EXTINF:1  ,LIVE 2
-https://ott.sonyplex.com:444/auth/MGmglcrAPlaOVitsxtrxPf3N4bF5NQxTj02fyNIAWkmxSCX5jxeN5H9Jie_D0Efy4ZdPjjLBzdmGoXCTgvelsCMljC9s1K7e30nGHe3RXp_8SasxbotkgesdZieMnbb69snaM3cZVQtPcGvSqeGqa6Hfu_wqakGOqEeFHe3D-uYoSiBesQJADHv3cokYXNdkhMg5gngbKtZvohG0bubQKiBehjTI2wnduI6O39hkOfCU5aWAi6hGwUVCEiXZDdpZls4fF2351aFLtyYdm8amQF-eiC9-E984FJYimtkqoIhdVK8PyiIxELUb4ojqt93GhlmxQClV_QC40yUoRCNxVSlgwvpKmPB-WKrssH1mvJ7Hs7S6DP03vu0qg8-s7pnR-yOV1fSc4PvHOXWVovenITFLzPHoNFxc-mI0ZPKhe1CKifzVcFiUAU2AHkJx09CZ0yK17GWvehh5TPRoyiPVXgLFj1dsEnHnQ3rG9_wHJ2YsQLSGJzbtA35CXiw3Vpql3FPtkY9BN6Xo3At63XXvWugaMMExGUq3D-5hERPvGT-tfIPPleMf8Xk-H2ZHh4mYWqyBvpdPgdrlX6KzbiZESD_KYEAX_1aZaoO7RftYgGw
+#EXTINF:1  ,T SPORTS 2
+https://ott.sonyplex.com:444/play/y4ypVArrswAkLijdKS_tnhhIvk9niht3vh2W4ClrIzo/.m3u8
 #EXTINF:1  ,IPL LINK
 http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,live link 
 http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
-#EXTINF:1  ,ESPN SD
-https://sportsleading.online/live/stream_e1.m3u8
+#EXTINF:1  ,GAZI TV
+https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m3u8
+#EXTINF:1  ,SKY TV
+https://247c.mrgamingstreams.com/mrgamingcricket.m3u8
