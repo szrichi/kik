@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:1  ,SONY SIX
-http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
-#EXTINF:1  ,BDIX
-http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
+#EXTINF:1  ,VIA PLAY
+https://i.mjh.nz/SamsungTVPlus/GBBB4300001NX.m3u8
+#EXTINF:1  ,TNT 3
+https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
 #EXTINF:1  ,WILLOW 
 https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
-#EXTINF:1  ,GAZI TV
-http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
-#EXTINF:1  ,T SPORTS 2
-https://ott.sonyplex.com:444/play/y4ypVArrswAkLijdKS_tnhhIvk9niht3vh2W4ClrIzo/.m3u8
-#EXTINF:1  ,IPL LINK
-http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
+#EXTINF:1  ,T SPORTS
+http://103.109.56.116/live/skyfeed1005/index.m3u8
+#EXTINF:1  ,SPORTS 18
+http://51.79.84.156:8082/Sports18Hd/index.m3u8
+#EXTINF:1  ,SPORTS 18 KHEL
+http://51.79.84.156:8082/Sports18Khel/index.m3u8
 #EXTINF:1  ,live link 
 http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
 #EXTINF:1  ,GAZI TV
