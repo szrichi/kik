@@ -13,7 +13,7 @@ http://10.192.0.3:8082/Star-Sports-2/tracks-v1a1/mono.m3u8?token=4f2e3b5de9eb813
 http://51.79.84.156:8082/Sports18Khel/index.m3u8
 #EXTINF:1  ,live link 
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/chunks.m3u8
-#EXTINF:1  ,GAZI TV
-https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
+#EXTINF:1  ,STAR SPORTS
+https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:1  ,SKY TV
 https://sports.yunyingtiandi.com/live/m32977025/playlist.m3u8
