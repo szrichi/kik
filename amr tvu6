@@ -12,7 +12,7 @@ http://10.192.0.3:8082/Star-Sports-2/tracks-v1a1/mono.m3u8?token=4f2e3b5de9eb813
 #EXTINF:1  ,STAR SPORTS  KHEL
 http://51.79.84.156:8082/Sports18Khel/index.m3u8
 #EXTINF:1  ,live link 
-https://prod-ec-us-west-2.video.pscp.tv/Transcoding/v1/hls/AMZ-y3wul55wMWCAKaja3qdBwilqM5HJzobdFzjNGLjEjNc75UhCI-uoKdasFKML_RzpekMzUFuYyV1otp5Qtg/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/master_dynamic_delta.m3u8?type=live
+https://pubads.g.doubleclick.net/ssai/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
 #EXTINF:1  ,STAR SPORTS
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:1  ,SKY TV
