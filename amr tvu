@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:1  ,T SPORTS BD
-https://vkvsd90.mycdn.me/hls/6080063277701.m3u8/sig/K0RVhrVyRTk/expires/1710577472895/srcIp/139.84.172.25/urls/45.136.22.55/clientType/14/srcAg/CHROME_ANDROID/mid/6681164131205/6080063277701_high/index.m3u8?p
+#EXTINF:1  ,SPORTS BD
+https://prim24banandneppsl.akamaized.net/hls/live/2110098/pslbangla/hdntl=exp=1710863555~acl=%2f*~data=hdntl~hmac=5016d3778b87a84aeeb9806b76f808bd5e6fd2e09b13af24229b1b5adfce5439/level_1.m3u8
 #EXTINF:1  ,T SPORTS BACK UP
 http://103.142.80.22:8080/Channel-1/index.m3u8
 #EXTINF:1  ,SS CRICKET
