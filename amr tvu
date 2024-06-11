@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:1  ,Sltofe
 https://fifabd.xyz/IPX/play.m3u8?id=match-1
-#EXTINF:1  ,T SPORTS BACK UP
-https://hls.benihime.tech/hls/ipl.m3u8
+#EXTINF:1  ,ASTRO
+https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
 #EXTINF:1  ,SS CRICKET
-https://sportsleading.online/live/stream_psl.m3u8
+http://145.239.5.177:8080/567/index.m3u8
 #EXTINF:1  ,T SPORTS
 http://103.142.80.22:8080/t-sports/video.m3u8
 #EXTINF:1  ,T SPORTS 4K
