@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:1  ,Rabithole
-https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
-#EXTINF:1  ,ASTRO
-https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
-#EXTINF:1  ,SS CRICKET
-http://145.239.5.177:8080/567/index.m3u8
-#EXTINF:1  ,T SPORTS
-http://103.142.80.22:8080/t-sports/video.m3u8
+#EXTINF:1  ,T SORTS
+https://cdn.hotflix-bd.online:443/T-Sports/tracks-v1a1/mono.m3u8?remote=103.155.118.213&token=54e24ecf3bc47cea942c3df0de93b789e8805ee4-66992c70ab76310fc7a5dce25aab65c5-1726706400-1726695600
+#EXTINF:1  ,SUPER SPORTS 
+https://cdn2.hotflix-bd.online/s-cricket/tracks-v1a1/mono.m3u8?remote=103.155.118.213&token=15a1bd99029b4f7eb38e650e5a23b7f64dd9232d-e46db7f24fc989a0244849cf41b3ce37-1726706483-1726695683
+#EXTINF:1  ,Sky CRICKET
+https://cdn1.hotflix-bd.online/sky-sports-cricket/tracks-v1a1/mono.m3u8?remote=103.155.118.213&token=95c41151c8ec460f8fbf01bbdce51228b4653e11-e26b82a98b439666afdf394f18e411a7-1726706613-1726695813
+#EXTINF:1  ,Willow
+https://hotflix-bd.online:443/willow-cricket/tracks-v1a1/mono.m3u8?remote=103.155.118.213&token=1ba449ec6965a5bd80e40fc8385d402f2a9131da-648cf6701f2acdd6b3764501ce897a7c-1726706687-1726695887
 #EXTINF:1  ,T SPORTS 4K
 http://38.96.178.201/live/TSports/index.m3u8
 #EXTINF:1  ,STAR SPORTS  KHEL
